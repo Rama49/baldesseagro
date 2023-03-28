@@ -1,4 +1,7 @@
 /********** Template CSS **********/
+.logo{
+    width: 70px;
+}
 :root {
     --primary: #3CB815;
     --secondary: #F65005;
