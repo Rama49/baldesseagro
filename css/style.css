@@ -2,6 +2,24 @@
 .logo{
     width: 70px;
 }
+
+.balde{
+    padding-top: 15px;
+    padding-left: 8px;
+}
+.niebe{
+    height: 178px;
+}
+.niebe1{
+    height: 200px;
+}
+.premier{
+    height: 200px;
+}
+.premier1{
+    height: 300px;
+    height: 300px;
+}
 :root {
     --primary: #3CB815;
     --secondary: #F65005;
