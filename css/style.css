@@ -20,6 +20,11 @@
     height: 300px;
     height: 300px;
 }
+@media(max-width: 508px){
+ .textbalde{
+    display: none;
+ }
+}
 :root {
     --primary: #3CB815;
     --secondary: #F65005;
